@@ -1,0 +1,15 @@
+(99.8% Acc)Alzheimer detection and classification
+
+#alzheimerdetection #mlproject
+-------------------------------------------------
+
+
+Requirements:
+  python --3.11.5
+  keras --3.2.0
+  tensorflow --2.16.1
+  numpy --1.26.4
+  matplotlib --3.8.4
+  splitfolders --0.5.1
+
+download dataset : https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
